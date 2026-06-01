@@ -1,0 +1,11 @@
+# Entornos virtuales
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modelos pesados
+*.keras
+*.h5
